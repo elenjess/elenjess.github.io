@@ -59,4 +59,3 @@ $worker_table_columns = array_keys( $first_record );
 
 </body>
 </html>
-//UPDATE total SET total.total_sum=total.total_sum+NEW.sum WHERE total.worker_id=NEW.worker_id
